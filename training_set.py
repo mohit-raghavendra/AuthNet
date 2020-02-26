@@ -18,20 +18,25 @@ def create_multiclass_labels():
 			else 
 				if i%100 < 10:
 					#add it to class 3
-					y_train = 3
+					y_train[i] = 3
 					else: 
 						#add it to class 4  
-						y_train = 4
+						y_train[i] = 4
+
+	return y_train
 
 
 
 def create_binary_labels():
-
+	
+	y_train = []
 	#for X_train and y_train
 	for i in range(no of samples):
 		if i>= 0 and i<=9:
 			#add it to class 1
-		else 
+			y_train[i] = 1
+		else:
 			#add it to class 0
- 
+ 			y_train[i] = 0
 
+	return y_train
