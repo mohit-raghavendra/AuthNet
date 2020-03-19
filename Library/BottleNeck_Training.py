@@ -29,7 +29,8 @@ def features(featmodel, crpimg, transform=False):
     """
     # transform=True seems more robust but I think the RGB channels are not in right order
     
-    imarr = np.array(crpimg).astype(np.float32)     sample_space=[] #for appending different utterances
+    imarr = np.array(crpimg).astype(np.float32)     
+    sample_space=[] #for appending different utterances
 
 
     if transform:
@@ -132,7 +133,7 @@ def person_extractor(InpDir,person):
     no_of_words=3 #one positive and 2 negatives. Can be changed.
     for i in range(no_of_words):  #Iterate through all the words spoken by the person
         condition_count = condition_count +1
-            CNN_out_total= word_extractor(InpDir,person)
+        CNN_out_total= word_extractor(InpDir,person)
         if count==1 :
             p_dataset = CNN_out_total #done because of need of same dimensions for concatenation
         else:
