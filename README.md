@@ -14,7 +14,7 @@ You will need need to add a 'Utilities' folder structure and add the following f
 -> Download the VGGface.h5 file from here ([VGGFace](https://drive.google.com/file/d/1cgNbT4UOGyEiAcB64vqwkhNtp-XCsL3u/view?usp=sharing)) <br>
 <br>
 
-# AuthNet has been accepted into AAAI-21 student abstract and poster program for oral presentation. <br>
+AuthNet has been accepted into AAAI-21 student abstract and poster program for oral presentation. <br>
 <br>
 <br>
 Cite us: <br>
