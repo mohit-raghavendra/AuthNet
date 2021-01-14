@@ -19,14 +19,15 @@ You will need need to add a 'Utilities' folder structure and add the following f
 
 
 <br>
-Cite us: <br>
+Cite us:
+
 ```
-@misc{raghavendra2020authnet, <br>
-      title={AuthNet: A Deep Learning based Authentication Mechanism using Temporal Facial Feature Movements}, <br>
-      author={Mohit Raghavendra and Pravan Omprakash and B R Mukesh and Sowmya Kamath}, <br>
-      year={2020}, <br>
-      eprint={2012.02515}, <br>
-      archivePrefix={arXiv}, <br>
-      primaryClass={cs.CV} <br>
+@misc{raghavendra2020authnet,
+  title={AuthNet: A Deep Learning based Authentication Mechanism using Temporal Facial Feature Movements},
+  author={Mohit Raghavendra and Pravan Omprakash and B R Mukesh and Sowmya Kamath},
+  year={2020},
+  publisher={2012.02515},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
 }
 ```
