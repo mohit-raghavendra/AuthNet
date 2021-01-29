@@ -19,6 +19,7 @@ You will need need to add a 'Utilities' folder structure and add the following f
 For running AuthNet follow these steps:
 -> Create a 'videos' folder that contains the videos for the utterances </br>
 -> Create a 'images' folder with following subfolders: </br>
+
         -> utterance 1 
         -> utterance 2 
         -> ... 
