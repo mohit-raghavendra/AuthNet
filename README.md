@@ -20,10 +20,10 @@ Find our paper on arxiv: <https://arxiv.org/abs/2012.02515> <br>
   1. Create a 'videos' folder that contains the videos for the utterances </br>
   2. Create a 'images' folder with following subfolders: </br>
 
-        -> utterance 1 
-        -> utterance 2 
-        -> ... 
-        -> utterance 5 
+        -> utterance 1<br>
+        -> utterance 2 <br>
+        -> ... <br>
+        -> utterance 5<br> 
 
   3. Run jupyternotebooks/Cerebrus.ipynb passing in the paths for the 'video' and 'image' folders, at the specified lines.
 
