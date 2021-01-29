@@ -12,19 +12,20 @@ AuthNet was accepted for oral presentation at AAAI-2021 for the Student Abstract
 Find our paper on arxiv: <https://arxiv.org/abs/2012.02515> <br>
 <br>
 
-You will need need to add a 'Utilities' folder structure and add the following files: <br>
--> white.jpg (white image for padding) <br>
--> Download the VGGface.h5 file from here ([VGGFace](https://drive.google.com/file/d/1cgNbT4UOGyEiAcB64vqwkhNtp-XCsL3u/view?usp=sharing)) <br>
-<br>
-For running AuthNet follow these steps:
--> Create a 'videos' folder that contains the videos for the utterances </br>
--> Create a 'images' folder with following subfolders: </br>
+- You will need need to add a 'Utilities' folder structure and add the following files: <br>
+1. white.jpg (white image for padding) <br>
+2. VGGface.h5 file, that can be downloaded here ([VGGFace](https://drive.google.com/file/d/1cgNbT4UOGyEiAcB64vqwkhNtp-XCsL3u/view?usp=sharing)) <br>
+
+- For running AuthNet follow these steps:
+  1. Create a 'videos' folder that contains the videos for the utterances </br>
+  2. Create a 'images' folder with following subfolders: </br>
 
         -> utterance 1 
         -> utterance 2 
         -> ... 
         -> utterance 5 
--> Run jupyternotebooks/Cerebrus.ipynb passing in the paths for the 'video' and 'image' folders, at the specified lines.
+
+  3. Run jupyternotebooks/Cerebrus.ipynb passing in the paths for the 'video' and 'image' folders, at the specified lines.
 
 
 <br>
