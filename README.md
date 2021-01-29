@@ -16,6 +16,15 @@ You will need need to add a 'Utilities' folder structure and add the following f
 -> white.jpg (white image for padding) <br>
 -> Download the VGGface.h5 file from here ([VGGFace](https://drive.google.com/file/d/1cgNbT4UOGyEiAcB64vqwkhNtp-XCsL3u/view?usp=sharing)) <br>
 <br>
+-> Create a 'videos' folder that contains the videos for the utterances </br>
+-> Create a 'images' folder with following structure: </br>
+   -> images </br>
+   
+        -> utterance 1 </br>
+        -> utterance 2 </br>
+        -> ... </br>
+        -> utterance 5 </br>
+-> Run jupyternotebooks/Cerebrus.ipynb passing in the paths for the 'video' and 'image' folders, at the specified lines.
 
 
 <br>
