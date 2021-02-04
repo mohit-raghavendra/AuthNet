@@ -1,5 +1,5 @@
 # Authnet
-![Header](https://raw.githubusercontent.com/Pravanop/Pravanop/master/header_git_profile.jpg "Header")
+![Header](https://raw.githubusercontent.com/Mohit-Mithra/AuthNet/master/pipeline_authnet.jpg "Header")
 This is the code repository for the paper:
 
 <b>AUTHNET - A deep learning based authentication mechanism using temporal facial feature movements</b> <br>
