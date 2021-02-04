@@ -47,7 +47,8 @@ For adding the data, follow these steps: <br>
      This folder will be populated with the sliced images of the video which will then be fed into VGGFace.<br><br>
 3. Now for testing, create a folder called 'test' inside 'Cerberus'. Then, inside the 'test' folder follow the same steps listed above. <br><br>
 
-4. Finally,run Cerberus/Cerebrus_training.ipynb. This will create the trained AuthNet model for that speaker. <br><br>
+4. Finally,run Cerberus/Cerebrus_training.ipynb. This will create the trained AuthNet model for that speaker. <br>
+<i>Note: This version does not use Haar Cascade filters as videos taken from smartphones do not need any cropping.</i><br>
 5. You can run Cerberus/Cerberus_testing.ipynb with different videos added in the 'test' folder to obtain predictions from the model. 
 
 ----------
