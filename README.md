@@ -58,15 +58,16 @@ Cite us:
 
 ```
 @article{Raghavendra_Omprakash_B R_2021, 
-title={AuthNet: A Deep Learning Based Authentication Mechanism Using Temporal Facial Feature Movements (Student Abstract)}, volume={35}, 
-url={https://ojs.aaai.org/index.php/AAAI/article/view/17933}, 
-abstractNote={Deep learning algorithms are widely used to extend modern biometric authentication mechanisms in resource-constrained environments like smartphones, providing ease-of-use and user comfort, while maintaining a non-invasive nature. In this paper, an alternative is proposed, that uses both facial recognition and the unique movements of that particular face while uttering a password. The proposed model is language independent, the password doesn’t necessarily need to be a set of meaningful words or numbers, and also, is a contact-less system. When evaluated on the standard MIRACL-VC1 dataset, the proposed model achieved a testing accuracy of 98.1%, underscoring its effectiveness.}, 
-number={18}, 
-journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-author={Raghavendra, Mohit and Omprakash, Pravan and B R, Mukesh}, 
-year={2021}, 
-month={May}, 
-pages={15873-15874} 
+  title={AuthNet: A Deep Learning Based Authentication Mechanism Using Temporal Facial Feature Movements (Student Abstract)},  
+  volume={35}, 
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/17933}, 
+  abstractNote={Deep learning algorithms are widely used to extend modern biometric authentication mechanisms in resource-constrained environments like smartphones, providing ease-of-use and user comfort, while maintaining a non-invasive nature. In this paper, an alternative is proposed, that uses both facial recognition and the unique movements of that particular face while uttering a password. The proposed model is language independent, the password doesn’t necessarily need to be a set of meaningful words or numbers, and also, is a contact-less system. When evaluated on the standard MIRACL-VC1 dataset, the proposed model achieved a testing accuracy of 98.1%, underscoring its effectiveness.}, 
+  number={18}, 
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  author={Raghavendra, Mohit and Omprakash, Pravan and B R, Mukesh}, 
+  year={2021}, 
+  month={May}, 
+  pages={15873-15874} 
 }
 
 ```
